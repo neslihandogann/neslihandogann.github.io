@@ -1,5 +1,0 @@
-Buraya annenle olan fotografinizi `anne-fotograf.jpg` adi ile koy.
-
-Not:
-- Sayfa bu dosyayi otomatik olarak ust bolumde gosterecek.
-- Sohbette gonderdigin gorseli dogrudan klasore yazamiyorum, bu yuzden ayni gorseli bu klasore eklemen gerekecek.
